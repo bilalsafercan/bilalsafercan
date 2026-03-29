@@ -16,6 +16,10 @@ Yazılım Geliştirmelerine, Güvenilir Sistem Mimarileri ve Ağ İletişimi ala
 |     3| **SQL**       |
 |     4| **C#**|
 |     5| **C++**    |
+|     6| **Mongodb**    |
+|     7| **Nodejs**    |
+
+
 
 ---
 
