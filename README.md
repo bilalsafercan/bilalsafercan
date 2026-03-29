@@ -54,13 +54,13 @@ Yazılım Geliştirmelerine, Güvenilir Sistem Mimarileri ve Ağ İletişimi ala
 
 | Kategori | Teknoloji Örnekleri |
 | :--- | :--- |
-| **Geliştirme Dilleri** | **JavaScript**, **Python**, **C#** |
-| **Sistem Yönetimi** | **Linux (Ubuntu)**, **Windows Server**, **Bash Scripting** |
+| **Geliştirme Dilleri** | **JavaScript**, **Python**, **C#**, **Nodejs**, **React**, **HTML**, **CSS** |
+| **Sistem Yönetimi** | **Linux (Ubuntu)**, **Windows Server 2016**, **Bash Scripting** |
 | **Sanallaştırma Platformları** | **VMware ESXi**, **Proxmox VE**, **VirtualBox**, **Docker** |
 | **Yedekleme Araçları** | **rsync**, **BorgBackup**, **Duplicity** |
 | **Ağ Protokolleri** | **TCP/IP**, **OSPF** (Öğrenme Aşamasında), **VLAN** |
 | **Ağ Donanımı** | **Ubiquiti UniFi**, **Switching**, **Routing** |
-| **Veritabanları** | **SQL** (PostgreSQL/MySQL) |
+| **Veritabanları** | **SQL** (PostgreSQL/MySQL), **Mongodb Atlas** |
 
 ---
 
